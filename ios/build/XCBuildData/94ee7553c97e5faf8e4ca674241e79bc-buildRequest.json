@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "78e8f9cb80c5f5f916a15bc3250eebdf88a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/osamaahmed/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/osamaahmed/Library/Developer/Xcode/DerivedData/Runner-dnhtolwhlbtxunarchlvzdvxskih/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/osamaahmed/Library/Developer/Xcode/DerivedData/Runner-dnhtolwhlbtxunarchlvzdvxskih/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "60781a918c88ab55388c2ef9e390b56990cc4070",
+          "TARGET_DEVICE_MODEL" : "iPhone10,6",
+          "TARGET_DEVICE_OS_VERSION" : "14.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
