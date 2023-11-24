@@ -1,5 +1,9 @@
 # chat_app
 
+Connect Effortlessly – Personalized Chats, Your Way!
+
+Chaty is a cross-platform Flutter-based chat application designed for seamless communication among users. It facilitates user-to-user interaction through personalized accounts, enabling individuals to engage in chat exchanges using unique usernames and profile pictures.
+
 A new Flutter application.
 
 ## Getting Started
